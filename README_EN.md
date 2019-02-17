@@ -8,7 +8,7 @@ You can use this browser to surf the Internet securely and privately. All your t
 
 ## Download for Windows 10/8/7
 
-1. Download zip file: [Chromium-Windows-72.0.3626.96.zip](https://github.com/jjqqkk/chromium/releases/download/72.0.3626.96/Chromium-Windows-72.0.3626.96.zip)
+1. Download zip file: [Chromium-Windows-72.0.3626.96.zip](https://github.com/gclm/Chromium_VPN/releases/download/72.0.3626.96/Chromium-Windows-72.0.3626.96.zip)
 
 2. Unzip it to your **Desktop**
 
@@ -16,7 +16,7 @@ You can use this browser to surf the Internet securely and privately. All your t
 
 ## Download for macOS
 
-1. Download zip file: [Chromium-macOS-72.0.3626.96.zip](https://github.com/jjqqkk/chromium/releases/download/72.0.3626.96/Chromium-macOS-72.0.3626.96.zip)
+1. Download zip file:[Chromium 72.0.3626.96.dmg](https://github.com/gclm/Chromium_VPN/releases/download/72.0.3626.96/Chromium.72.0.3626.96.dmg)
 
 2. Unzip it to your **Desktop**, your will get the Chromium app
 
