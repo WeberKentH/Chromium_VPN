@@ -1,33 +1,29 @@
-# Chromium with SSL VPN
+# 自带 SSL VPN 的 Chromium 浏览器
 
-Chromium is the open source project behind the Google Chrome browser. It is a fully functional browser and also widely used by other parties to create their own browsers. Many vendors use the code in a similar manner as Google, while others simply build it as-is and release browsers with the Chromium name.
+[英文版本说明](README_EN.md)
 
-This build takes advantage of the [VPN](https://developer.chrome.com/extensions/vpnProvider) and [Proxy](https://developer.chrome.com/extensions/proxy) API developed by Google. 
+Chromium 浏览器 是 Google Chrome 浏览器背后的开源项目。 它是一个功能齐全的浏览器，也被其他各方广泛用于创建自己的浏览器。 许多厂商以类似于谷歌的方式使用代码，而其他厂商则简单地按原样构建代码，并发布带有 Chromium 名称的浏览器。
 
-You can use this browser to surf the Internet securely and privately. All your traffic will be encrypted and sent through anonymous proxy servers.
+这个版本利用了 Google 开发的 VPN 和代理 API。
 
-## Download for Windows 10/8/7
+你可以使用此浏览器安全及私密地浏览互联网。 所有的流量都将被加密，并通过匿名代理服务器发送。
 
-1. Download zip file: [Chromium-Windows-72.0.3626.96.zip](https://github.com/jjqqkk/chromium/releases/download/72.0.3626.96/Chromium-Windows-72.0.3626.96.zip)
+## 下载 Windows 版本
 
-2. Unzip it to your **Desktop**
+1. 下载 zip 文件: [Chromium-Windows-72.0.3626.96.zip](https://github.com/jjqqkk/chromium/releases/download/72.0.3626.96/Chromium-Windows-72.0.3626.96.zip)
 
-3. Run **chrome.exe**
+2. 解压缩到你的 **桌面**
 
-## Download for macOS
+3. 运行 **chrome.exe** 文件
 
-1. Download zip file: [Chromium-macOS-72.0.3626.96.zip](https://github.com/jjqqkk/chromium/releases/download/72.0.3626.96/Chromium-macOS-72.0.3626.96.zip)
+## 下载 macOS 版本 
 
-2. Unzip it to your **Desktop**, your will get the Chromium app
+1. 下载 zip 文件: [Chromium-macOS-72.0.3626.96.zip](https://github.com/jjqqkk/chromium/releases/download/72.0.3626.96/Chromium-macOS-72.0.3626.96.zip)
 
-3. Press **control** and click on the app icon, and open the app from the menu
+2. 解压到你的 **桌面**，你就会得到 Chromium 应用程序
 
-## How to upgrade Chromium?
+3. 双击点击应用程序图标，打开应用程序
 
-We will follow [Google's release schedule](https://chromiumdash.appspot.com/schedule) and post the binaries on the [releases](https://github.com/jjqqkk/chromium/releases) page.
+## 如何卸载 Chromium 浏览器 ？
 
-Users are free to download newer versions. There will be no conflict to having two Chromium on the same computer.
-
-## How to uninstall Chromium?
-
-Simply delete the folder on Windows, or the app on macOS.
+简单地删除 Windows 上的文件夹，或者 macOS 上的应用程序。
